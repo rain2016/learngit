@@ -9,3 +9,10 @@ Git tracks changes of files.
 王鹏玮 master test3
 王鹏玮 test3
 
+Git is a1 free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes of files.
+git can merge branchs.
+Creating a new branch is quick and simple.
+ok
+dd
